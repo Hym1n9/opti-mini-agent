@@ -1,0 +1,11 @@
+.env
+.env.*
+.venv/
+_pycache_/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+.vscode/
+*.log
+postgres_data/
